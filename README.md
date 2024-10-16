@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Amit Patel.
 - 👀 I’m interested in Software Development.
-- 🌱 I’m currently learning .Net .
+- 🌱 I’m currently learning C#(.Net MVC) .
 <!--- 💞️ I’m looking to collaborate on ... -->
 - 📫 You can also contact Me at my Website : https://officialamitpatel.freewebhostmost.com
 <!-- 😄 Pronouns: ...
